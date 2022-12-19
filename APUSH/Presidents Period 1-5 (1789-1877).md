@@ -45,7 +45,7 @@
 10. John Tyler (1841-1845) <Terms: 1>
     * Anexed Texas right before presidency ended so he would be more famous (clout chaser)
 11. James Polk (1845-1849) <Terms: 1>
-    * Oregan Treater
+    * Oregan Treatie
     * Mexican American War
 12. Zachery Taylor (1849-1850) <Terms: 1/2 (died in office)> 
     * 
