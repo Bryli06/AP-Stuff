@@ -48,7 +48,7 @@
     * Oregan Treatie
     * Mexican American War
 12. Zachery Taylor (1849-1850) <Terms: 1/2 (died in office)> 
-    * 
+    * Clayton-Buwler Treaty
 13. Millard Fillmore (1850-1853) <Terms: 1/2 (finished Zachery's)>
     * fugitive slave law
     * Compromise of 1850
