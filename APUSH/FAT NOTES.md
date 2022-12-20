@@ -501,7 +501,7 @@ Summary: In the lonely, and hostile life in the South, labor was intense.
     * Death rate in the Middle Passage was as high as 20%
 * Slavery flourished in the South because of labor intensive crops such as tobacco, rice, and indigo 
 * In the 18th Century, slavery exploded in the South because of rice and tobacco plantations.
-* **Geographic Factors **- Not only that fertile land, a warm environment, abundant rainfall, and a long growing season provided perfect geographic factors
+* **Geographic Factors** - Not only that fertile land, a warm environment, abundant rainfall, and a long growing season provided perfect geographic factors
 * **Economic Factors** - saved the Chesapeake colonies, demand in England for tobacco increased
 * **Social Factors** - Majority of white families in the South did not own slaves they did aspire to become slave owners 
 * **New York Slave Revolt (1712)** - Cost 9 white lives and punished 21 black lives.
