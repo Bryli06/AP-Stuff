@@ -537,9 +537,7 @@ Summary: In the lonely, and hostile life in the South, labor was intense.
 * Education was rare
     *  nearly all colleges established were primarily to train ministers 
 
-## 
-     \
-Time Period 3 (1754-1800):
+## Time Period 3 (1754-1800):
 
 
 Summary:
