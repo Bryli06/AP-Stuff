@@ -209,13 +209,9 @@ Geography
 Summary:
 
 
-    Tended to conquer and enslave the native inhabitants of the regions it colonized. The Spanish also made great efforts to convert Native Americans to Catholicism. Spanish colonists were overwhelmingly male and many had children with native woman, leading to settlements populated largely by mestizos, people of mixed Spanish and Native American ancestry
-
-
-    **Main Goals:** 	Spread their Roman Catholic faith and extend the king’s wealth and 
-
-
-        power, also MONEY.
+> Tended to conquer and enslave the native inhabitants of the regions it colonized. The Spanish also made great efforts to convert Native Americans to Catholicism. Spanish colonists were overwhelmingly male and many had children with native woman, leading to settlements populated largely by mestizos, people of mixed Spanish and Native American ancestry
+> 
+> **Main Goals:** 	Spread their Roman Catholic faith and extend the king’s wealth and power, also MONEY.
 
 
 #### Conquistadors - Spanish conquerors in the new world 
@@ -274,9 +270,9 @@ Summary:
 Summary:
 
 
-    France had significantly friendly relations with indigenous tribes, tending to ally with them, adopt native practices, and marrying them. The French had little choice in this: French settlements were so sparsely populated that taking on the natives head-on would have been very risky.
-
-	**Main Goals:** Fur Trapping
+> France had significantly friendly relations with indigenous tribes, tending to ally with them, adopt native practices, and marrying them. The French had little choice in this: French settlements were so sparsely populated that taking on the natives head-on would have been very risky.
+> 
+> **Main Goals:** Fur Trapping
 
 
 
@@ -293,7 +289,7 @@ Summary:
 Summary: 
 
 
-    The Netherlands attempted to build a great trading empire, and while it achieved great success elsewhere in the world, its settlements on the North American continent, which were essentially glorified trading Post, soon fell to the English. This doesn't mean they were unimportant. One of the Dutch settlements was New Amsterdam later renamed New York City.
+> The Netherlands attempted to build a great trading empire, and while it achieved great success elsewhere in the world, its settlements on the North American continent, which were essentially glorified trading Post, soon fell to the English. This doesn't mean they were unimportant. One of the Dutch settlements was New Amsterdam later renamed New York City.
 
 
 
@@ -306,7 +302,7 @@ Summary:
 Summary: 
 
 
-    England differed significantly from the three other powers in that the other three all depended on Native Americans in different ways: as slave labor, as allies, or as trading partners. English colonies by contrast attempted to exclude Native Americans as much as possible. The English flooded to the new world in great numbers with entire families arriving in many of the colonies rather than just young men, intermixing was rare. Instead when English colonies grew to the point that conflict with nearby tribes became inevitable, and the English launched wars of extermination. For instance the Powhatan Confederacy was destroyed by English “Indian fighters” in the 1640s 
+> England differed significantly from the three other powers in that the other three all depended on Native Americans in different ways: as slave labor, as allies, or as trading partners. English colonies by contrast attempted to exclude Native Americans as much as possible. The English flooded to the new world in great numbers with entire families arriving in many of the colonies rather than just young men, intermixing was rare. Instead when English colonies grew to the point that conflict with nearby tribes became inevitable, and the English launched wars of extermination. For instance the Powhatan Confederacy was destroyed by English “Indian fighters” in the 1640s 
 
 
 ## <span style="text-decoration:underline;">13 Colonies:</span> 
@@ -2686,9 +2682,7 @@ The era marks the beginning of the 2nd industrial revolution, with a lot of new 
 
 **Plessy v. Ferguson (1896)** - The Supreme Court carried the logic of legal segregation a significant step further.It upheld segregation by approving “separate but equal" railroad facilities for African Americans 
 
-
-
-    * Allowed Jim Crow segregation laws to spread across the South. Within a few years, state and local statutes required segregated schools, restaurants, and hotels 
+* Allowed Jim Crow segregation laws to spread across the South. Within a few years, state and local statutes required segregated schools, restaurants, and hotels 
 
 
 ## Time Period 7 (1890-1945):
