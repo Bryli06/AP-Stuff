@@ -2875,7 +2875,7 @@ Direct election of Senators, use of initiatives and referendums
 * **Federal Trade Commision (1914)** - Established to preserve competition by preventing unfair business practices and investigating complaints against companies.
 * **Clayton Antitrust Act of 1914** - Lengthened Sherman Antitrust Act's list of practices. Exempted labor unions from being called trusts, legalized strikes and peaceful picketing by labor union members.
 * Did not include racial discrimination and white supremacy, progressives largely ignored racial discrimination in the south 
-    * **_The Birth of the Nation _(1915)** - enriched the racial attitudes of Wilson’s time. glorified the KKK
+    * **_The Birth of the Nation_ (1915)** - enriched the racial attitudes of Wilson’s time. glorified the KKK
 
 **World War I (1914-1918)** - The war put an end to the progressive era.
 
