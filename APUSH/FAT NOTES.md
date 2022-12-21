@@ -2854,7 +2854,7 @@ Direct election of Senators, use of initiatives and referendums
 
 
 * Led by Carrie Chapman Catt and Alice Paul, Women organized rallies, sign petitions, and demonstrated in public marches. Their campaign of mounting pressure proved to be irresistible
-*  on June 4th, 1919, Congress passed the** 19th Amendment **stating that no citizen could be denied the right to vote “on account of sex”
+*  on June 4th, 1919, Congress passed the **19th Amendment** stating that no citizen could be denied the right to vote “on account of sex”
     *  the amendment constituted the largest single extension of democratic voting rights in American history 
 
 **Election of 1912** - **Woodrow Wilson** (First Democrat since the Civil War) becomes the 28th President of the US.
@@ -2867,15 +2867,15 @@ Direct election of Senators, use of initiatives and referendums
 
 **17th Amendment (1913)** - Direct Election of Senators.
 
-**Wilson’s “Triple Wall of Privilege” **- The Tariff, the banks, and the Trust
+**Wilson’s “Triple Wall of Privilege”** - The Tariff, the banks, and the Trust
 
 
 
 * **Federal Reserve System (1913)** - This act created a central banking system, consisting of twelve regional banks governed by the Federal Reserve Board. It was an attempt to provide the United States with a sound yet flexible currency. The Board it created still plays a vital role in the American economy today.
 * **Federal Trade Commision (1914)** - Established to preserve competition by preventing unfair business practices and investigating complaints against companies.
-* **Clayton Antitrust Act of 1914 **- Lengthened Sherman Antitrust Act's list of practices. Exempted labor unions from being called trusts, legalized strikes and peaceful picketing by labor union members.
+* **Clayton Antitrust Act of 1914** - Lengthened Sherman Antitrust Act's list of practices. Exempted labor unions from being called trusts, legalized strikes and peaceful picketing by labor union members.
 * Did not include racial discrimination and white supremacy, progressives largely ignored racial discrimination in the south 
-    * **_The Birth of the Nation _(1915) **-** **enriched the racial attitudes of Wilson’s time. glorified the KKK
+    * **_The Birth of the Nation _(1915)** - enriched the racial attitudes of Wilson’s time. glorified the KKK
 
 **World War I (1914-1918)** - The war put an end to the progressive era.
 
@@ -2930,7 +2930,7 @@ Many joined the army. W. E. B. Du Bois encouraged blacks to enlist, hoping the m
 
 
 
-* **John Jay Pershing **-  An American general who led troops against "Pancho" Villa in 1916. He took on the Meuse-Argonne offensive in 1918 which was one of the longest lasting battles- 47 days in World War I. He was the commander of the American Expeditionary Forces in Europe during World War I.
+* **John Jay Pershing** -  An American general who led troops against "Pancho" Villa in 1916. He took on the Meuse-Argonne offensive in 1918 which was one of the longest lasting battles- 47 days in World War I. He was the commander of the American Expeditionary Forces in Europe during World War I.
 * **Doughboys** - Term for American soldiers in Europe.
 * **Alvin York** - War Hero, Sergeant York
 
@@ -2946,7 +2946,7 @@ Many joined the army. W. E. B. Du Bois encouraged blacks to enlist, hoping the m
 
 **Armistice Day (1918)** - Ended fighting in WWI.
 
-**Wilson’s “Fourteen Points” (1918**) - Wilson's vision for the end of the war designed to keep peace in the future. Some of the points called for self-determination, free trade, free seas, a League of Nations, and open diplomacy.
+**Wilson’s “Fourteen Points” (1918)** - Wilson's vision for the end of the war designed to keep peace in the future. Some of the points called for self-determination, free trade, free seas, a League of Nations, and open diplomacy.
 
 **Versailles / Paris Peace Conference (1919-1920)** - A peace conference held in Paris to negotiate a treaty to end World War I. When Wilson arrived in Paris, he was cheered on by the crowds because his Fourteen Points were extremely popular amongst the people.
 
